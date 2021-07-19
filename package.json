@@ -1,0 +1,26 @@
+{
+  "name": "student_store_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharon-Sanchez/student_store_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharon-Sanchez/student_store_backend/issues"
+  },
+  "homepage": "https://github.com/Sharon-Sanchez/student_store_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.0.0-alpha.8",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.10.0"
+  }
+}
